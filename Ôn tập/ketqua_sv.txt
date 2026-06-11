@@ -1,0 +1,3 @@
+a1        |Nguyen Phuong Hai|DTB: 9.33
+a2        |Truong Manh Dat|DTB: 8.90
+a3        |Nguyen Viet An|DTB: 8.80

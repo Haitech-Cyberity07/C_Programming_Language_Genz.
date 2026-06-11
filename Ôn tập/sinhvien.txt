@@ -1,0 +1,10 @@
+3
+a1
+Nguyen Phuong Hai
+9.2 9.5 9.3
+a2
+Truong Manh Dat
+8.8 8.9 9.0
+a3
+Nguyen Viet An
+8.7 8.8 8.9
