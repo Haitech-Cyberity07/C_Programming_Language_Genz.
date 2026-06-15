@@ -1,0 +1,21 @@
+5
+a1
+Nguyen Van A
+1.8
+30
+a2
+Nguyen Van B
+2.2
+20
+a3
+Nguyen Van C
+1.9
+25
+a4
+Nguyen Van D
+2.1
+31
+a5
+Nguyen Van E
+2.5
+29

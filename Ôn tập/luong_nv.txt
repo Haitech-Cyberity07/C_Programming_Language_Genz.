@@ -1,0 +1,9 @@
+
+Danh sach nhan vien sau khi sap xep la:
+Ma nhan vien    | Ho va ten       | He so luong     | So ngay cong    | Luong          
+a1              | Nguyen Van A    | 1.80            | 30              | 80999997.85    
+a2              | Nguyen Van B    | 2.20            | 20              | 66000001.43    
+a3              | Nguyen Van C    | 1.90            | 25              | 71249999.11    
+a4              | Nguyen Van D    | 2.10            | 31              | 97649995.57    
+a5              | Nguyen Van E    | 2.50            | 29              | 108750000.00   
+
