@@ -1,0 +1,8 @@
+
+Danh sach thong tin cac chuyen bay sau khi sap xep:
+Ma chuyen bay   | Noi di               | Noi den              | Gia ve          
+QH789           | Hanoi                | Phu Quoc             | 2500000.00      
+BL999           | Hanoi                | Da Nang              | 1800000.00      
+VJ123           | Hanoi                | Ho Chi Minh          | 1500000.00      
+VN456           | Da Nang              | Hanoi                | 1200000.00      
+VU001           | Nha Trang            | Da Lat               | 850000.00       

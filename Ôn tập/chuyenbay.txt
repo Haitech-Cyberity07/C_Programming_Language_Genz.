@@ -1,0 +1,21 @@
+5
+VJ123
+Hanoi
+Ho Chi Minh
+1500000
+VN456
+Da Nang
+Hanoi
+1200000
+QH789
+Hanoi
+Phu Quoc
+2500000
+VU001
+Nha Trang
+Da Lat
+850000
+BL999
+Hanoi
+Da Nang
+1800000
