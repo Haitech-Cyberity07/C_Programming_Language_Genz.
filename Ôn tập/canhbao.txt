@@ -1,0 +1,5 @@
+
+Danh sach khach hang co so du duoi 50k:
+So tai khoan    | Ten khach hang       | So du               
+102             | Tran Thi B           | 45000.00            
+104             | Pham Thi D           | 20000.00            

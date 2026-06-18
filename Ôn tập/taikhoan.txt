@@ -1,0 +1,16 @@
+5
+101
+Nguyen Van A
+15000000
+102
+Tran Thi B
+45000
+103
+Le Van C
+50000000
+104
+Pham Thi D
+20000
+105
+Hoang Van E
+50000000
