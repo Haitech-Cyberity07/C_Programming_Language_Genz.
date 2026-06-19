@@ -1,0 +1,21 @@
+5
+BN001
+Nguyen Van An
+1960
+10
+BN002
+Tran Thi Binh
+1995
+5
+BN003
+Le Ngoc Cuong
+1955
+15
+BN004
+Pham Doan Dinh
+2005
+2
+BN005
+Vuong Tu Anh
+1980
+12

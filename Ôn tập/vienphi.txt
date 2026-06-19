@@ -1,0 +1,7 @@
+Danh sach thong tin va vien phi da duoc sap xep cua cac benh nhan:
+Ma benh nhan    | Ten benh nhan        | Nam sinh   | So ngay nam vien     | Vien phi            
+BN003           | Le Ngoc Cuong        | 1955       | 15                   | 3000000.00          
+BN005           | Vuong Tu Anh         | 1980       | 12                   | 2400000.00          
+BN001           | Nguyen Van An        | 1960       | 10                   | 2000000.00          
+BN002           | Tran Thi Binh        | 1995       | 5                    | 1000000.00          
+BN004           | Pham Doan Dinh       | 2005       | 2                    | 400000.00           
