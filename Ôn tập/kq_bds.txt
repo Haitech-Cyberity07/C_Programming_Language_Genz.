@@ -1,0 +1,7 @@
+Danh sach bat dong san sau khi sap xep:
+Ma BDS          | Dien Tich       | Don Gia         | Loai            | Tong Gia Tri   
+BDS003          | 100.00          | 50.00           | DatNen          | 5000.00        
+BDS004          | 95.00           | 40.00           | ChungCu         | 3800.00        
+BDS005          | 50.00           | 60.00           | DatNen          | 3000.00        
+BDS001          | 85.50           | 30.50           | ChungCu         | 2607.75        
+BDS002          | 60.00           | 35.00           | ChungCu         | 2100.00        
