@@ -1,0 +1,6 @@
+Danh sach don hang theo so luong giam dan la:
+Ma don hang     | Ten khach hang       | So luong SP     | Don gia         | Gia tri don    
+DH04            | Pham Thi D           | 10              | 50000.00        | 500000.00      
+DH02            | Tran Thi B           | 5               | 300000.00       | 1500000.00     
+DH01            | Nguyen Van A         | 2               | 450000.00       | 900000.00      
+DH03            | Le Van C             | 1               | 1500000.00      | 1500000.00     
