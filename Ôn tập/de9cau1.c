@@ -79,9 +79,7 @@ void inDaThuc(int *c, int maxBac){
         if(i>0){
             printf("%dx^%d", c[i], i);
             if(c[i-1]>=0){
-                printf(" + ");
-            }else{
-                printf(" ");
+                printf("+");
             }
         }else if(i==0){
             printf("%d", c[i]);
