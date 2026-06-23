@@ -1,0 +1,7 @@
+Danh sach thong tin cac cau thu:
+Ma cau thu      | Ten cau thu          | So ban thang    | So kien tao     | Diem           
+CT02            | Nguyen Tien Linh     | 5               | 1               | 11.00          
+CT04            | Do Hung Dung         | 3               | 3               | 9.00           
+CT01            | Nguyen Quang Hai     | 2               | 4               | 8.00           
+CT03            | Phan Van Duc         | 1               | 2               | 4.00           
+CT05            | Khuat Van Khang      | 0               | 2               | 2.00           

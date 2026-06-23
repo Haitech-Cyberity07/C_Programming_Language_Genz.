@@ -1,0 +1,21 @@
+5
+CT01
+Nguyen Quang Hai
+2
+4
+CT02
+Nguyen Tien Linh
+5
+1
+CT03
+Phan Van Duc
+1
+2
+CT04
+Do Hung Dung
+3
+3
+CT05
+Khuat Van Khang
+0
+2
