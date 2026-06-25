@@ -1,0 +1,21 @@
+5
+PH01
+Avatar
+2009
+2923.7
+PH02
+Avengers
+2019
+2797.5
+PH03
+Titanic
+1997
+2254.0
+PH04
+Star Wars
+2015
+2068.2
+PH05
+Spider-Man
+2021
+1921.8
