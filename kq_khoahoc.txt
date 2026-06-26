@@ -1,0 +1,7 @@
+Danh sach khoa hoc theo ten Alphabet: 
+Ma khoa hoc     | Ten khoa hoc         | So tin chi      | Hoc phi         | Trung binh/Tin 
+KH04            | Anh Van 1            | 1               | 500000.00       | 500000.00      
+KH03            | Co So Du Lieu        | 2               | 1000000.00      | 500000.00      
+KH05            | He Dieu Hanh         | 3               | 1500000.00      | 500000.00      
+KH02            | Lap Trinh C          | 4               | 2000000.00      | 500000.00      
+KH01            | Toan Cao Cap         | 3               | 1500000.00      | 500000.00      
