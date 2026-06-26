@@ -1,0 +1,12 @@
+
+Danh sach doan vien sau khi sap xep theo nam ket nap:
+Ho ten               | Nam sinh        | Nam ket nap    
+Pham Thi Dung        | 1990            | 2005           
+Le Van Cuong         | 1992            | 2008           
+Tran Thi Bich        | 1993            | 2010           
+Hoang Van Em         | 1994            | 2010           
+Nguyen Phuong Hai    | 2007            | 2022           
+
+Thong ke tuoi doan (doan vien ket nap sau 2007):
+Tuoi doan 5: Co 2 doan vien!
+Tuoi doan 7: Co 1 doan vien!
