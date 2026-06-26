@@ -14,7 +14,7 @@ Co So Du Lieu
 KH04
 Anh Van 1
 1
-500000
+600000
 KH05
 He Dieu Hanh
 3

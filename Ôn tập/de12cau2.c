@@ -37,7 +37,7 @@ int main(){
     sapXepVaGhi(a, n);
     fclose(f);
     free(a);
-    printf("Da giai phong bo nho!\n");
+    printf("\nDa giai phong bo nho!\n");
     return 0;
 }
 void docVaTinh(FILE *f, khoaHoc *a, int n){
@@ -102,5 +102,5 @@ void sapXepVaGhi(khoaHoc *a, int n){
     }
     fclose(fOut);
     printf("Ghi du lieu vao file kq_khoahoc.txt thanh cong!\n");
-    printf("\n");
+    
 }
